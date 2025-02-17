@@ -1,1 +1,2 @@
 info1
+new info from new_branch
